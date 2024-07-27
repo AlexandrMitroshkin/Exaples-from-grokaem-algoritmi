@@ -23,4 +23,6 @@ def binary_search_1(list2 , number):
 
 
 
+
+
 print(binary_search_1(list1,1))

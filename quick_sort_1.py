@@ -11,3 +11,4 @@ def quick_sort(array):
 
 print(quick_sort([10,5,2,3]))
 
+
